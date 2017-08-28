@@ -8,4 +8,4 @@ class Header extends Component {
   }
 }
 
-default export Header;
+export default Header;

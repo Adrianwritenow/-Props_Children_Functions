@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import ChildComponent from './childComponent';
+import DisplayComponent from './displayComponent';
 
 class ParentComponent extends Component {
   constructor(props){
@@ -48,4 +50,4 @@ class ParentComponent extends Component {
   }
 }
 
-default export ParentComponent;
+export default ParentComponent;

@@ -9,4 +9,4 @@ class DisplayComponent extends Component {
     );
   }
 }
-default export DisplayComponent;
+export default DisplayComponent;
